@@ -1,0 +1,16 @@
+{
+	"name": "adf-shopeasy-2024-kp",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true,
+			"isExplicitlySet": false
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ad034f95-920e-46e0-8d2f-287db5d6f2d7",
+		"tenantId": "597d0234-60d9-42fb-8090-fd8f4c618a49"
+	}
+}
